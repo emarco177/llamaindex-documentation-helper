@@ -1,13 +1,14 @@
 
-# LangChain Documentation Helper
+# LlamaIndex Documentation Helper
 
-A repository for learning LangChain by building a generative ai application.
+A repository for learning LlamaIndex by building a generative ai RAG application.
 
-This is a web application is using a Pinecone as a vectorsotre and answers questions about LangChain 
-(sources from LangChain official documentation). 
+This is a web application is using a Pinecone as a vectorstore and answers questions about LlamaIndex 
+(sources from LlamaIndex official documentation). 
 
 
 ![Logo](https://github.com/emarco177/llamaindex-documentation-helper/blob/main/static/banner.gif)
+
 [![udemy](https://img.shields.io/badge/LangChain%20Udemy%20Course-%2412.99-green)](https://www.udemy.com/course/langchain/?couponCode=LANGCHAINCD8C0B4060)
 
 ## Environment Variables
