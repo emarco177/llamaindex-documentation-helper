@@ -8,12 +8,12 @@ requests = "*"
 beautifulsoup4 = "*"
 llama-index = "*"
 openai = "*"
-pinecone-client = "*"
 python-dotenv = "*"
 black = "*"
 llama-cpp-python = "*"
 transformers = "*"
 streamlit = "*"
+llama-index-llms-openai = "*"
 
 [dev-packages]
 
